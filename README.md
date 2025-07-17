@@ -1,4 +1,4 @@
-# SAM-Guided Knowledge Distillation Network via Pixel Contrastive Learning for RGB-D Mirror Detection
+# Modelling and Synergistic: Dual-Circulation Representation Learning and Pixel Contrastive Learning for Mirror Detection
 
 # Results
 You can find all weights from ：https://pan.baidu.com/s/1OE2adbZpjQJNQWSbQ6FA-Q 
